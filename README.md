@@ -8,7 +8,7 @@
 
 AtliQ Grand, a luxury hotel chain in India, faced revenue dips and high cancellations across its properties. This project builds an interactive Power BI dashboard to uncover insights into booking trends, room performance, cancellation impact, and strategic revenue metrics — designed to support better pricing, marketing, and occupancy decisions.
 
-🔗 **Live Power BI Dashboard**: [View Report]()
+🔗 **Live Power BI Dashboard**: [View Report](https://app.powerbi.com/reportEmbed?reportId=ef3d4a24-98cf-46e4-a476-3f49fc786500&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
 
 
 ---
@@ -104,8 +104,10 @@ Designed for deep-dive exploration and insights:
 | `fact_bookings`     | Booking details (dates, guests, revenue, room info) |
 | `fact_aggregated`   | Daily room capacity and booking success rates       |
 
-📌 Snowflake schema implemented for clean filtering and scalability.  
-![Data Model]()
+📌 Star schema implemented for clean filtering and scalability.  
+
+![Data Model](https://github.com/Anand-Cinenkanolu/AtliQ-Hotels/blob/main/Files/Dashboard%20images/Data%20Modeling.png)
+
 
 ---
 
@@ -156,5 +158,4 @@ For queries, collaboration opportunities, or feedback, feel free to reach out:
 
 ---
 
-## 📁 Folder Structure
 
