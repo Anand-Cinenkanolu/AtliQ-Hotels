@@ -37,6 +37,15 @@ Over **20 custom DAX measures** including:
 
 ---
 
+### 🧑‍🏫 How to Use This Dashboard
+- **Whether you're a stakeholder, analyst, or manager, this dashboard is designed to make exploration intuitive.
+
+Here’s how you can navigate and interact with it:
+
+![Dashboard Walkthrough]()
+
+---
+
 ## 📊 Dashboard Previews
 
 ### 🏠 Home View
