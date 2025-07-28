@@ -10,6 +10,7 @@ AtliQ Grand, a luxury hotel chain in India, faced revenue dips and high cancella
 
 🔗 **Live Power BI Dashboard**: [View Report]()
 
+
 ---
 
 ## 💡 Key Business Insights
@@ -42,28 +43,13 @@ Over **20 custom DAX measures** including:
 
 Here’s how you can navigate and interact with it:
 
-![Dashboard Walkthrough]()
+![Dashboard Walkthrough](https://github.com/Anand-Cinenkanolu/AtliQ-Hotels/blob/main/Files/DASHBOARD-GIF.gif)
 
----
-
-## 📊 Dashboard Previews
-
-### 🏠 Home View
-
-Overview of key KPIs across all hotel properties, weekly revenue patterns, and overall booking trends.  
-![Home Page]()
-
-### 🏨 Property Performance
-
-Deep dive into city-wise and hotel-wise performance with RevPAR, Occupancy %, and Cancellation Trends.  
-![Property View]()
-
-### 📅 Weekly Revenue Trends
-
-Compare week-wise spikes and dips to identify high-performance windows and cancellation risks.  
-![Weekly Trends]()
 
 -----------
+
+## Home / Landing Page
+![Home Page](https://github.com/Anand-Cinenkanolu/AtliQ-Hotels/blob/main/Files/Dashboard%20images/Home%20page.png)
 
 ## 📊 Dashboard Previews
 
@@ -78,6 +64,7 @@ Quick snapshot of business health across all hotel properties:
 - **Property leaderboard** with detailed KPIs: Revenue, RevPAR, Occupancy %, ADR, Booking Nights, Ratings, and Cancellation %
 
 This page gives leadership the 360° pulse of hotel performance across all dimensions.
+![Overview View](https://github.com/Anand-Cinenkanolu/AtliQ-Hotels/blob/main/Files/Dashboard%20images/Overview.png)
 
 ---
 
@@ -91,11 +78,15 @@ Designed for deep-dive exploration and insights:
 - **Occupancy % by day type** – contrast between weekday vs weekend traffic
 - **Revenue Trend by Month** – track monthly growth and revenue curve
 
+![Executive View](https://github.com/Anand-Cinenkanolu/AtliQ-Hotels/blob/main/Files/Dashboard%20images/Executive%20View.png)
 
+### Data Modeling
 
 ---
 
 ## 🧱 Data Model & Structure
+
+![Data Model](https://github.com/Anand-Cinenkanolu/AtliQ-Hotels/blob/main/Files/Dashboard%20images/Data%20Modeling.png)
 
 ### 🔹 Dimension Tables
 
@@ -155,9 +146,13 @@ Designed for deep-dive exploration and insights:
 
 ## 📣 Contact
 
-📧 anandcinenkanolu@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/Anand-Cinenkanolu/)  
-🗂️ [Portfolio](https://codebasics.io/portfolio/Anand-Cinenkanolu)
+For queries, collaboration opportunities, or feedback, feel free to reach out:
+
+- 📧 [**Email**](anandcinenkanolu@gmail.com)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/Anand-Cinenkanolu/)
+- 🗂️ [**Portfolio**](https://codebasics.io/portfolio/Anand-Cinenkanolu)
+
+💼 Always open to feedback, collaboration, or job opportunities in data analytics!
 
 ---
 
