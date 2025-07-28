@@ -43,7 +43,7 @@ Over **20 custom DAX measures** including:
 
 Here’s how you can navigate and interact with it:
 
-![Dashboard Walkthrough](https://github.com/Anand-Cinenkanolu/AtliQ-Hotels/blob/main/Files/DASHBOARD-GIF.gif)
+![Dashboard Walkthrough](https://github.com/Anand-Cinenkanolu/AtliQ-Hotels/blob/main/Files/Dashboard-Gif.gif)
 
 
 -----------
